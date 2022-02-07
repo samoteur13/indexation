@@ -17,13 +17,13 @@ app.use(express.static('./assets')); //demande a express d'aller chercher les fi
 app.use(bodyParser.urlencoded({ extended: true }))// 
 
 
-app.listen(8080, () => {
+app.listen(8082, () => {
     console.log("le serveur a demarrer");
 })
 // si une erreure survien alleé dans package.json et ecrire a la suite de / "main": "index.js",/  "type": "module", a la ligne
 
 
-//http://localhost:8080/ pour retrouver sa page
+//http://localhost:8082/ pour retrouver sa page
 app.get('/', async (req, res) => {
     let contentFile = JSON.parse(fs.readFileSync(filePath));
     let string = ""

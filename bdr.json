@@ -1,0 +1,6258 @@
+[
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "words": [
+      {
+        "mot": "Recherche",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Recherche",
+        "nombreOccurence": 2
+      },
+       {
+        "mot": "il",
+        "nombreOccurence": 63
+      },
+      {
+        "mot": "Maps",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "YouTube",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "s",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Drive",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Historique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Param",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Connexion",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "eSolutions",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "entreprise",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "de",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fr",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Conditions",
+        "nombreOccurence": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "words": [
+      {
+        "mot": "PrésentationPresseDroits",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "auteurNous",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "un",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "haineux",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "à",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "LCENConditions",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "utilisationConfidentialitéRègles",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sécuritéPremiers",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "de",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fonctionnalités",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "LLC",
+        "nombreOccurence": 1
+      }
+    ]
+  },
+  {
+    "url": "https://stackoverflow.com/questions/48248832/stylesheet-not-loaded-because-of-mime-type",
+    "title": "html - Stylesheet not loaded because of MIME-type - Stack Overflow",
+    "words": [
+      {
+        "mot": "Stack",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "About",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "For",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Overflow",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "answers",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "Teams",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "technologists",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "private",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "with",
+        "nombreOccurence": 26
+      },
+      {
+        "mot": "Jobs",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "related",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "career",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Talent",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "tech",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "build",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "employer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Advertising",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "developers",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "company",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Log",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sign",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "current",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "help",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Meta",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "communities",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "or",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "in",
+        "nombreOccurence": 61
+      },
+      {
+        "mot": "your",
+        "nombreOccurence": 34
+      },
+      {
+        "mot": "exchange",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Home",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Questions",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Users",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Explore",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Find",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Job",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "for",
+        "nombreOccurence": 38
+      },
+      {
+        "mot": "share",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "group",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "a",
+        "nombreOccurence": 108
+      },
+      {
+        "mot": "is",
+        "nombreOccurence": 63
+      },
+      {
+        "mot": "free",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "on",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "trusted",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "and",
+        "nombreOccurence": 53
+      },
+      {
+        "mot": "the",
+        "nombreOccurence": 184
+      },
+      {
+        "mot": "use",
+        "nombreOccurence": 18
+      },
+      {
+        "mot": "Learn",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Q",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "work",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "knowledge",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "that",
+        "nombreOccurence": 30
+      },
+      {
+        "mot": "easy",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "search",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Stylesheet",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "loaded",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "of",
+        "nombreOccurence": 35
+      },
+      {
+        "mot": "type",
+        "nombreOccurence": 37
+      },
+      {
+        "mot": "Question",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "years",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ago",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "month",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "m",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "I",
+        "nombreOccurence": 74
+      },
+      {
+        "mot": "website",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "gulp",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "compile",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "sync",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "keep",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "synchronised",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "changes",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "task",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "everything",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "but",
+        "nombreOccurence": 20
+      },
+      {
+        "mot": "to",
+        "nombreOccurence": 114
+      },
+      {
+        "mot": "this",
+        "nombreOccurence": 60
+      },
+      {
+        "mot": "message",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "apply",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "from",
+        "nombreOccurence": 18
+      },
+      {
+        "mot": "localhost",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "styles",
+        "nombreOccurence": 27
+      },
+      {
+        "mot": "style",
+        "nombreOccurence": 32
+      },
+      {
+        "mot": "MIME",
+        "nombreOccurence": 24
+      },
+      {
+        "mot": "not",
+        "nombreOccurence": 49
+      },
+      {
+        "mot": "strict",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "enabled",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "don",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "really",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "why",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "The",
+        "nombreOccurence": 17
+      },
+      {
+        "mot": "file",
+        "nombreOccurence": 43
+      },
+      {
+        "mot": "which",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "pretty",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "correct",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "rel",
+        "nombreOccurence": 27
+      },
+      {
+        "mot": "text",
+        "nombreOccurence": 18
+      },
+      {
+        "mot": "assets",
+        "nombreOccurence": 14
+      },
+      {
+        "mot": "And",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "merge",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Bootstrap",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "awesome",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nothing",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "yet",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "as",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "folder",
+        "nombreOccurence": 14
+      },
+      {
+        "mot": "index",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "custom",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "What",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "be",
+        "nombreOccurence": 17
+      },
+      {
+        "mot": "something",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "setting",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "maybe",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "mime",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "browser",
+        "nombreOccurence": 15
+      },
+      {
+        "mot": "Mar",
+        "nombreOccurence": 26
+      },
+      {
+        "mot": "Peter",
+        "nombreOccurence": 17
+      },
+      {
+        "mot": "k",
+        "nombreOccurence": 20
+      },
+      {
+        "mot": "badges",
+        "nombreOccurence": 120
+      },
+      {
+        "mot": "bronze",
+        "nombreOccurence": 50
+      },
+      {
+        "mot": "Jan",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "NickNick",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "silver",
+        "nombreOccurence": 45
+      },
+      {
+        "mot": "when",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "linked",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "started",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "html",
+        "nombreOccurence": 30
+      },
+      {
+        "mot": "straight",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "rules",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "got",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "later",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "so",
+        "nombreOccurence": 14
+      },
+      {
+        "mot": "loading",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "at",
+        "nombreOccurence": 97
+      },
+      {
+        "mot": "JavaScript",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "went",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Newclique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "It",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "you",
+        "nombreOccurence": 48
+      },
+      {
+        "mot": "incorrect",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "server",
+        "nombreOccurence": 17
+      },
+      {
+        "mot": "t",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "In",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "DOESN",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "get",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "it",
+        "nombreOccurence": 58
+      },
+      {
+        "mot": "HTML",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Type",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Since",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "doesn",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "there",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "reply",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fastest",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "check",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "try",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "directly",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "css",
+        "nombreOccurence": 97
+      },
+      {
+        "mot": "case",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "described",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "behind",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "used",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "forgot",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "packaging",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "json",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "was",
+        "nombreOccurence": 32
+      },
+      {
+        "mot": "Jana",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "able",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "issue",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "spring",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "configurations",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "access",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sndu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "bad",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "conf",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "has",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "us",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "error",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "backend",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "working",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "response",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Jul",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "more",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "Votes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Node",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "applications",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "app",
+        "nombreOccurence": 28
+      },
+      {
+        "mot": "dirname",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Notice",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "does",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "forward",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "end",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "need",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "href",
+        "nombreOccurence": 37
+      },
+      {
+        "mot": "did",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "slash",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "can",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "do",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Follow",
+        "nombreOccurence": 31
+      },
+      {
+        "mot": "gold",
+        "nombreOccurence": 29
+      },
+      {
+        "mot": "badge",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "solved",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Sergio",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Without",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pages",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "api",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "But",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "adds",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "users",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "give",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "add",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "How",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "mikael",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Add",
+        "nombreOccurence": 30
+      },
+      {
+        "mot": "think",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "library",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "comments",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "minify",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "remove",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "meant",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "some",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "different",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Removing",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "into",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "minified",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Again",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fix",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "win",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "works",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "Share",
+        "nombreOccurence": 31
+      },
+      {
+        "mot": "An",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "because",
+        "nombreOccurence": 14
+      },
+      {
+        "mot": "all",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "what",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Minimify",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "modules",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "time",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Doh",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "find",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "certain",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "SteamFire",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "compiling",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "vendor",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "i",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "watch",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "actually",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "goes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "means",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "bit",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "then",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "without",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "up",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "ran",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "found",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "load",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "So",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "Once",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "my",
+        "nombreOccurence": 33
+      },
+      {
+        "mot": "May",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "CSS",
+        "nombreOccurence": 24
+      },
+      {
+        "mot": "by",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "line",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Feb",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "also",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "properly",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "tag",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "named",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "s",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "will",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "answered",
+        "nombreOccurence": 30
+      },
+      {
+        "mot": "Exactly",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "me",
+        "nombreOccurence": 19
+      },
+      {
+        "mot": "change",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "node",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "All",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "typo",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "AJPerez",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "answer",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "dist",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "screwed",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "files",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "user",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Yep",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "simple",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "send",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "page",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "tanou",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "FWIW",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "happened",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "were",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "an",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "Authenticated",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "site",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "always",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "community",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "direction",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Joe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "upload",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "RCW",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "comment",
+        "nombreOccurence": 31
+      },
+      {
+        "mot": "path",
+        "nombreOccurence": 26
+      },
+      {
+        "mot": "status",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "content",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "wrong",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "intention",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "returned",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "logs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Mortensen",
+        "nombreOccurence": 17
+      },
+      {
+        "mot": "base",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "angular",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "If",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "seeing",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "updating",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cause",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Dec",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "trouble",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "clearly",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "how",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "initially",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Velojet",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "way",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "url",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "another",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "re",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "template",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "starter",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Then",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "stylesheet",
+        "nombreOccurence": 34
+      },
+      {
+        "mot": "Amandeep",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Saini",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Living",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "A",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "have",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "attribute",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "just",
+        "nombreOccurence": 14
+      },
+      {
+        "mot": "link",
+        "nombreOccurence": 38
+      },
+      {
+        "mot": "Although",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "valid",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "yar",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "sr",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "right",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "w",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "src",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "soon",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "suggest",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sebastian",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "below",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "per",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "structure",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "bootstrap",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "edited",
+        "nombreOccurence": 26
+      },
+      {
+        "mot": "Bateson",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "however",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "applied",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Apr",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "reading",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "changing",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "else",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "like",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "AngularDart",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "web",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "must",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "projectfolder",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "if",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "Comments",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Some",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ALSO",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "set",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "such",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "static",
+        "nombreOccurence": 14
+      },
+      {
+        "mot": "both",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Example",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "solution",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "main",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Surekha",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "metal",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "jacke",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Remove",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "links",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Murat",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ld",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Y",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "question",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Aug",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "errors",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Dingus",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "simply",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "theme",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Angular",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "workaround",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Thats",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "projects",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Barthel",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "might",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "linking",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "before",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "grid",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Safwat",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Fathi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "required",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "ndotie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "As",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "post",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "worked",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Assest",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fine",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Jitendra",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "others",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "CLI",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "webserver",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "deploying",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "root",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "ll",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "update",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "https",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "com",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "issues",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "relative",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "nested",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "resolve",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mine",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "application",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "resolves",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "are",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "stop",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "stylesheets",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Sep",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "production",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "These",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "needed",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "dynamically",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "prod",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Kewal",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "had",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "PhpStorm",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "online",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "additional",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "few",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "here",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "spelling",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "rather",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "any",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "problem",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "checked",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Among",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "solutions",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "validates",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "validators",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "media",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "should",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "g",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "CatHenry",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "same",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "KOHLI",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "following",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "js",
+        "nombreOccurence": 25
+      },
+      {
+        "mot": "var",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "express",
+        "nombreOccurence": 15
+      },
+      {
+        "mot": "install",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "via",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Mostafa",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ghadimi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "open",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "tools",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "network",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "request",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Maybe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "two",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "including",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Yunior",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "SantanaYunior",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Santana",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "helping",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "instantly",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Nick",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "realize",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "view",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "package",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Oct",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "thank",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "literally",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Vash",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Express",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "JS",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "public",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "Otherwise",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "scripts",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Note",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "after",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Shapon",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Pal",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "built",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Purav",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Barot",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "want",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Jéy",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "browsers",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "clicked",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cannot",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "changed",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "pass",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "yourCssName",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "By",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "other",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "d",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "route",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "summary",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "points",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "noredinebahri",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "This",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "since",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "ve",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "explicit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "particular",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ts",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "directory",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "dbclient",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "mutators",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "tslint",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "hbs",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "My",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "running",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "javascript",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Thus",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "e",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "look",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Choubey",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "out",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "been",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "am",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "hosting",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "styling",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "stopped",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "activated",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Styles",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "document",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "component",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "cssLink",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "head",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cssLint",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "arrow",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "description",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ShriramShriram",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cli",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "npm",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "script",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "restarted",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "serve",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "khademi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "put",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "could",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "material",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Nov",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "import",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "React",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "helped",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "adding",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "GongadzeAlex",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Next",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Earn",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "counting",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "bonus",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "reputation",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "protect",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "non",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "questions",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "ask",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Blog",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Resignation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Podcast",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "their",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "LTE",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Featured",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sites",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Beta",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "made",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Terms",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Privacy",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "January",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Browser",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "external",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Mime",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Option",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Refused",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "sheet",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "disable",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "checking",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "http",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "executing",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "primeicons",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Refusing",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Related",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "div",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "than",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "JSON",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pptx",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Resource",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "transferred",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Setting",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "SASS",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "URL",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Hot",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "spend",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Train",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Centaurs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Dresses",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "jag",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "physicists",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "accept",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "models",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Why",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "reduces",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "variation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "consonant",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "definition",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fifth",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "matrix",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Mathematica",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "M",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "his",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "initial",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fiction",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "go",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Banks",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "obvious",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "over",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "range",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "longer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Rust",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "normally",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dark",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "travel",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Do",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "about",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "frequently",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "paper",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Man",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Broadway",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "hangman",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Python",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "words",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "designer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ideas",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "alternate",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "times",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "cross",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nix",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "create",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "directories",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "using",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "partition",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Mistakenly",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "numeric",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "faucet",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tar",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "much",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Is",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "sauce",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "hot",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Subscribe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "feed",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "RSS",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "reader",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "posts",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "b",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dno",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "width",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "default",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Directory",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Calculator",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Mobile",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Enterprise",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Press",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Here",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Service",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Cookie",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Policy",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Culture",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Life",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Science",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Business",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Data",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Twitter",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Instagram",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "logo",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Inc",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "licensed",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cc",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "rev",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "noscript",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "best",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sb",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "p",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "amp",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "cv",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "alt",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "clicking",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cookies",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Exchange",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "information",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "our",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "settings",
+        "nombreOccurence": 1
+      }
+    ]
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox",
+    "title": "Gmail",
+    "words": [
+      {
+        "mot": "Tout",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "avec",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "seul",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Connectez",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pour",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "à",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Saisissez",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "adresse",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mail",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mon",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Se",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "un",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Créer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Google",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "propos",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Règles",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "confidentialité",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "d",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Aide",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "az",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "bosanski",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "e",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Deutsch",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "English",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Kingdom",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "States",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "España",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Latinoamérica",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Filipino",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Canada",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "France",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Hrvatski",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "isiZulu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Italiano",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "latvie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "lietuvi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Melayu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "norsk",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Português",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Portugal",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sloven",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sloven",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "srpski",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Suomi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ti",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Vi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Türkçe",
+        "nombreOccurence": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.branchcms.com/learn/docs/developer/twig/tags/item/for",
+    "title": "for - Twig Tag | Branch CMS Documentation",
+    "words": [
+      {
+        "mot": "ReleasesContactBlogWebmail",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ProgramVideosThemesBilling",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Why",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Compare",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Pricing",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Add",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Apps",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "SSL",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Email",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Customers",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Learn",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Tutorials",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Contact",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Support",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Use",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Setup",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "a",
+        "nombreOccurence": 41
+      },
+      {
+        "mot": "Billing",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "of",
+        "nombreOccurence": 20
+      },
+      {
+        "mot": "Demo",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Company",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Overview",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "for",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "over",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "in",
+        "nombreOccurence": 15
+      },
+      {
+        "mot": "array",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "hash",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "example",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "loop",
+        "nombreOccurence": 37
+      },
+      {
+        "mot": "blog",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "you",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "do",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "following",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "posts",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "postTitle",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "endfor",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "post",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "each",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "the",
+        "nombreOccurence": 41
+      },
+      {
+        "mot": "s",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "through",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "variable",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "block",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "access",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "some",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "variables",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "are",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "accessible",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "The",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "sequence",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "letters",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "need",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "iterate",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "can",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "operator",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "i",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "will",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "numbers",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "on",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "You",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "thing",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "letter",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "br",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "index",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "iteration",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "at",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "starting",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "iterations",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "end",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "revindex",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Holds",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "or",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "first",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "it",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "not",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "whether",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "last",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "false",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "endif",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "items",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "parent",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "looped",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "above",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "hold",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "and",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "when",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "with",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "cannot",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "breaking",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "however",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "condition",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "skip",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "all",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "active",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "user",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "if",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "For",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "won",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "work",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "is",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "In",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "never",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "item",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "clause",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "no",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "occur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "empty",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "output",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "using",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "p",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "url",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "There",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Iterating",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "By",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "only",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "keys",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "key",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "values",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "both",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "name",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "subset",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "wanted",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "portion",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "achieve",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "slice",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Back",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "list",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Login",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Dashboard",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Navigation",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "Text",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Toolbar",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Adding",
+        "nombreOccurence": 14
+      },
+      {
+        "mot": "Editing",
+        "nombreOccurence": 18
+      },
+      {
+        "mot": "Youtube",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Video",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Settings",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Tables",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Files",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Uploading",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Full",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Cache",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "DNS",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sitemap",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Site",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Editor",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Open",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Social",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "APIs",
+        "nombreOccurence": 15
+      },
+      {
+        "mot": "attr",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sort",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Forms",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "Form",
+        "nombreOccurence": 38
+      },
+      {
+        "mot": "App",
+        "nombreOccurence": 19
+      },
+      {
+        "mot": "Creating",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Fields",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Submission",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Viewing",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Attributes",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Call",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Box",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Widgets",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Content",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "List",
+        "nombreOccurence": 15
+      },
+      {
+        "mot": "Url",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Upload",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Embed",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Image",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Longitude",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Select",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Checkboxes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Paragraph",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Parent",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Buttons",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Section",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Menus",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Single",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Tabs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "YouTube",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Code",
+        "nombreOccurence": 29
+      },
+      {
+        "mot": "Converting",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Twig",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Layouts",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "Looping",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Loops",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "If",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Differences",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Branch",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Core",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Global",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Variable",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Google",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "reCAPTCHA",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Checkbox",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "CAPTCHA",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Templates",
+        "nombreOccurence": 32
+      },
+      {
+        "mot": "Websites",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Profiles",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "All",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Profile",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Conditions",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Device",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Between",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Versions",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Pagination",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Platform",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "REST",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Routes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Geo",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Filters",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Value",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sorting",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Results",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Search",
+        "nombreOccurence": 20
+      },
+      {
+        "mot": "API",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "Campaign",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Document",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Gallery",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Real",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Rental",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Store",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Template",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Theme",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Random",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Field",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Best",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Comments",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Debugging",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Objects",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Tag",
+        "nombreOccurence": 17
+      },
+      {
+        "mot": "Iframe",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Menu",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Request",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Tags",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "Tests",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Variables",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Accounts",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Edit",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Account",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "IP",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ads",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Campaigns",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Reports",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sizes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Blog",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Posts",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Featured",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "by",
+        "nombreOccurence": 18
+      },
+      {
+        "mot": "Atom",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Post",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "Recent",
+        "nombreOccurence": 18
+      },
+      {
+        "mot": "Pages",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Home",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Detail",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "Category",
+        "nombreOccurence": 21
+      },
+      {
+        "mot": "Examples",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "Sample",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "Event",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Events",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "Link",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "Registration",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "View",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Copying",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Public",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Using",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Archive",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Documents",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Displaying",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Process",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Dynamic",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Stubs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Permissions",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Items",
+        "nombreOccurence": 19
+      },
+      {
+        "mot": "Page",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "Item",
+        "nombreOccurence": 12
+      },
+      {
+        "mot": "an",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Rating",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Comment",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Properties",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "Marketing",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Change",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Layout",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Deleting",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "Recently",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Viewed",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Segments",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Instances",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Containers",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Container",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "File",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Sub",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Is",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Password",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Categories",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "Shopping",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Cart",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Assign",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Prices",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Notifications",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Later",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Product",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Quickbooks",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Taxes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Badges",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Trails",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "Top",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "KML",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Collections",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Data",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Collection",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "additional",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Got",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "request",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "us",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "feedback",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "top",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Aptuitiv",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Go",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "BranchCMS",
+        "nombreOccurence": 2
+      }
+    ]
+  },
+  {
+    "url": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal",
+    "title": "Wikipédia, l'encyclopédie libre",
+    "words": [
+      {
+        "mot": "Aller",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "contenu",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "masquer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "barre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Rechercher",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "utilisateur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "un",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "Outils",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "développé",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Créer",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "connecter",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pour",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "éditeurs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "en",
+        "nombreOccurence": 18
+      },
+      {
+        "mot": "plus",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Navigation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "thématiquesArticle",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "hasardContact",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Débuter",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "WikipédiaAideCommunautéModifications",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "don",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "liéesSuivi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pages",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "fichierPages",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "permanentInformations",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "la",
+        "nombreOccurence": 31
+      },
+      {
+        "mot": "Imprimer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "livreTélécharger",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "PDFVersion",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Dans",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "autres",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Wikimedia",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "WikiWikisource",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Espaces",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "noms",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Variantes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Affichages",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "le",
+        "nombreOccurence": 21
+      },
+      {
+        "mot": "sourceVoir",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "historique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "replié",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Une",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "de",
+        "nombreOccurence": 63
+      },
+      {
+        "mot": "encyclopédie",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Wikipédia",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "chacun",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "améliorer",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "appareil",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Accueil",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "contribuer",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "thématiques",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "fondateurs",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "l",
+        "nombreOccurence": 21
+      },
+      {
+        "mot": "question",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "labellisé",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "jour",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "aussi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Roy",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "et",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "Mata",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "du",
+        "nombreOccurence": 26
+      },
+      {
+        "mot": "régné",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "XIIIe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ou",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "XVIIe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Son",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "n",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "attestée",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "par",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "légendes",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "à",
+        "nombreOccurence": 21
+      },
+      {
+        "mot": "sa",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "riche",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "îles",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Les",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "naissance",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Éfaté",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "au",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "il",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "venu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Chef",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "met",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "festival",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "trouve",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mettre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "aux",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "entre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "qui",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Il",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "suite",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "des",
+        "nombreOccurence": 20
+      },
+      {
+        "mot": "d",
+        "nombreOccurence": 30
+      },
+      {
+        "mot": "mourir",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "son",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "victime",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "trop",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Des",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "chants",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sacrifice",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "chefs",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "avec",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "sur",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "terre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "En",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "les",
+        "nombreOccurence": 21
+      },
+      {
+        "mot": "français",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Garanger",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "différents",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "liés",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Roymata",
+        "nombreOccurence": 7
+      },
+      {
+        "mot": "emplacement",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tradition",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Retoka",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "une",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "femmes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sacrifiés",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "occasion",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nombre",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Le",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "vieil",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "position",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "sépulture",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "est",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "probablement",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sa",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "étant",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "orales",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pas",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "certitude",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "avoir",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "lieu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "coïncidant",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dans",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "Vanuatu",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "majeur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "règne",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "fin",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "figure",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "culture",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "L",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "emblème",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "associé",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ni",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tombe",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "vocations",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pays",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "José",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "lors",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sont",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "restitués",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "hui",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "culturel",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ensemble",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "vie",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "inscrit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mondial",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Lire",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "qualité",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "contenus",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Programme",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "janvier",
+        "nombreOccurence": 11
+      },
+      {
+        "mot": "ministre",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Bas",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Rutte",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "quatrième",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "près",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "après",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Kazakhstan",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "urgence",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "faire",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "révolte",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cours",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Soudan",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Hamdok",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "junte",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "coup",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "octobre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "démission",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "entraîne",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dégâts",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Afrique",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "er",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "vigueur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "économique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "global",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Pacifique",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "libre",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Guerre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Pandémie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Rallye",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Championnats",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "patinage",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Coupe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "football",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "universelle",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Anatoliy",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ahmet",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "k",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Khazanov",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sassoli",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Shonekan",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Dolhov",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Drouot",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Durán",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Durst",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Greenberg",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Jackson",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Jamal",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Kurrent",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Lendore",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Lønn",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Maynard",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Rinteenpää",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Savoie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Burke",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Gary",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Maria",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Tahani",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Gebali",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Hickman",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Kerroum",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Maheu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Saget",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wikinews",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "saviez",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Régulateurs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "romans",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "écrits",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "King",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "respectivement",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nom",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Richard",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sous",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "même",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "mêmes",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "mondes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "situations",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dernier",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "égyptien",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "été",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "ordre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "empereur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "frère",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "reçoit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "traitement",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "traiter",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Leonard",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pèse",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "kg",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "contingent",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cigognes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "France",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "onze",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Après",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "être",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "humain",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "prépare",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Terre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Gerbert",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "élu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cinq",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tard",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Propositions",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Présentation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "collective",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "multilingue",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "principe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ce",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "vise",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "librement",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "objectif",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "que",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "licence",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Commons",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "SA",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "copié",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "réserve",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "conditions",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "tous",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "gratuitement",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "publicité",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "recourir",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "données",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "ses",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "articles",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Ils",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "leurs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sein",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "collaborative",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dirigeant",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "compte",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Comment",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "publier",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ligne",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "règles",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "établies",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "communauté",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "garder",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cordiale",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nombreuses",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "votre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "notamment",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "article",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "insérer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "N",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "poser",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "vos",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "projets",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "discussion",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "centraliser",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "remarques",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ressources",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Éphéméride",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Clément",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "s",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Ferrare",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nationale",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "proclame",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Grèce",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Pasteur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "découverte",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "révolution",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "déclenchée",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "échoué",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Shetland",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Écosse",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Braer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "brise",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pétrole",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "réservoirs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "frappe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "détruit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Port",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fait",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "détaillée",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Modifier",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Meo",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "général",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "définition",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Archives",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Wikimédia",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Foundation",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "coordonnés",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Méta",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Médiathèque",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Citations",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Base",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Guide",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wiktionnaire",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wikilivres",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wikisource",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wikiversité",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "exercices",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "actualités",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Répertoire",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "img",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fr",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "org",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Special",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "start",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "x",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "title",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "height",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "border",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "absolute",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "provient",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "wikipedia",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "php",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "oldid",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Qafár",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Acèh",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "PangcahAragonésÆnglisc",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Kotava",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "aruAz",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Basa",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "emait",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Central",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "BrezhonegBosanski",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ZamboangaMìng",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ng",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "CorsuN",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "win",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "r",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "e",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "CymraegDanskDagbanliDeutschThu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ZazakiDolnoserbski",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "egbe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "rumagnòlEnglishEsperantoEspañolEestiEuskaraEstremeñu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Vosa",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Kriyòl",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Avañe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "KonknniBahasa",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "GaelgHausa",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "kâ",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "i",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "HindiHiri",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ayisyenMagyar",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "IndonesiaInterlingueIgboIñupiakIlokano",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "inuktitut",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "lojban",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "QaraqalpaqshaTaqbaylit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "y",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Kwanyama",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Kanuri",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Kernowek",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Lingua",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "NovaLugandaLimburgsLigureLadinLombardLingála",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Latga",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "uMadhurâ",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Malagasy",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "oriMinangkabau",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "MelayuMaltiMvskokeMirandés",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "NaoeroN",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "OshiwamboLi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nynorskNorsk",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "NouormandSesotho",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "bizaadChi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "PangasinanKapampanganPapiamentuPicardDeitschPälzisch",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "PitkernPolskiPiemontèis",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "SimiRumantschRomani",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ArmãneashtiTarandíne",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "SarduSicilianuScots",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Tacl",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Simple",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ina",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "inaGagana",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "kielâChiShonaSoomaaligaShqip",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nskiSakizaya",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Tetun",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "faka",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "PisinTürkçeSeediqXitsonga",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tahiti",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "O",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "TshivendaVènetoVepsän",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Ti",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tWest",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "IsiXhosa",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Bân",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "gú",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "liens",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dernière",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cette",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "faite",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Droit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "textes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Creative",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "peuvent",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Voyez",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "détails",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "crédits",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wikipedia",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "déposée",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "organisation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "régie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "c",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fiscal",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Unis",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "confidentialité",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "propos",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Contact",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mobile",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Déclaration",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cookies",
+        "nombreOccurence": 1
+      }
+    ]
+  }
+]

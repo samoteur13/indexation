@@ -1,0 +1,24 @@
+{
+  "name": "indexation",
+  "version": "1.0.0",
+  "description": "indexée et rechercher",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "samoteur",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^3.1.0",
+    "pkg": "^5.5.1",
+    "regex": "^0.1.1",
+    "twig": "^1.15.4"
+  }
+}

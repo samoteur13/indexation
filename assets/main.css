@@ -1,0 +1,77 @@
+body{
+    font-family: cursive;
+    background-color: whitesmoke;
+}
+
+header{
+    text-align: center;
+}
+
+hr{
+    margin-bottom: 40px;
+}
+
+.lien {
+    background-color: rgb(182, 177, 177);
+    font-weight: bold;
+    text-decoration: none;
+    border: solid black 3px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.input{
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+#button {
+    background-color: rgb(184, 166, 200);
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+
+
+
+.lien :hover{
+    cursor: pointer;
+}
+
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+iframe{
+    margin-top: 20px;
+    border: solid black 5px;
+    border-radius: 5px;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+article{
+    background-color: white;
+    overflow: scroll;
+    border-radius: 5px;
+    border: solid black 4px;
+    height: 300px;
+    width: 500px;
+}
+
+span {
+    color: red;
+}

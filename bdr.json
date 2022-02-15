@@ -11,7 +11,7 @@
         "mot": "Recherche",
         "nombreOccurence": 2
       },
-       {
+      {
         "mot": "il",
         "nombreOccurence": 63
       },
@@ -6244,6 +6244,860 @@
       {
         "mot": "mobile",
         "nombreOccurence": 2
+      },
+      {
+        "mot": "Déclaration",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cookies",
+        "nombreOccurence": 1
+      }
+    ]
+  },
+  {
+    "url": "https://fr.wikipedia.org/wiki/Test",
+    "title": "Test — Wikipédia",
+    "words": [
+      {
+        "mot": "Aller",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "contenu",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "masquer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "barre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Rechercher",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "utilisateur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "un",
+        "nombreOccurence": 20
+      },
+      {
+        "mot": "Outils",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "développé",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Créer",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "connecter",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pour",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "éditeurs",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "en",
+        "nombreOccurence": 10
+      },
+      {
+        "mot": "plus",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Navigation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "thématiquesArticle",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "hasardContact",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Débuter",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "WikipédiaAideCommunautéModifications",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "don",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "liéesSuivi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "pages",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fichierPages",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "permanentInformations",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "la",
+        "nombreOccurence": 15
+      },
+      {
+        "mot": "pageÉlément",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Imprimer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "livreTélécharger",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "PDFVersion",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Espaces",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "noms",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Variantes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Affichages",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "le",
+        "nombreOccurence": 16
+      },
+      {
+        "mot": "Plus",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "langues",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Az",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Català",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tinaDanskDeutschEnglishEspañolEuskara",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "NederlandsNorsk",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sloven",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Türkçe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "les",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "Un",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "de",
+        "nombreOccurence": 34
+      },
+      {
+        "mot": "encyclopédie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Cette",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "d",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "répertorie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sujets",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "articles",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "même",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Sur",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "projets",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "test",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "Wiktionnaire",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mot",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "polysémique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "et",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "étymologies",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "distinctes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "témoin",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "récipient",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Sommaire",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "latin",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Du",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "Pseudonyme",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "significations",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "modifier",
+        "nombreOccurence": 8
+      },
+      {
+        "mot": "est",
+        "nombreOccurence": 23
+      },
+      {
+        "mot": "travail",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nombreux",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "tant",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "exactes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sciences",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "informatique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "procédure",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "lors",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "logiciel",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "par",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "ayant",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cette",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "validation",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "a",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "produit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "jeu",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "pratique",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "à",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "fonctionnalités",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "En",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "une",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "si",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "statistique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "n",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "plausible",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cadre",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "supposée",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "données",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "niveau",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "choisi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "vérifie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "probabilité",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "produise",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "échantillon",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "choisie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "hypothèse",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "également",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "puissance",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "qui",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "l",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "fonde",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sur",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "examens",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "standardisés",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "évaluation",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "compétences",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "donné",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "ses",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "témoignage",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Testa",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "biologie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "au",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "animaux",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "forme",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "comme",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "squelettes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "radiolaires",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "foraminifères",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "arrondi",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "notamment",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "matière",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "calcination",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "four",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "cuisine",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "étymologie",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "testicule",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Test",
+        "nombreOccurence": 13
+      },
+      {
+        "mot": "du",
+        "nombreOccurence": 6
+      },
+      {
+        "mot": "Andrew",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "nom",
+        "nombreOccurence": 4
+      },
+      {
+        "mot": "rap",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ATK",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "code",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "des",
+        "nombreOccurence": 9
+      },
+      {
+        "mot": "pénales",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "XVIIe",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "instaurant",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "divers",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "civiques",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ou",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "romains",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dissidents",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "dits",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "conformistes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "fleuve",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Uni",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "ville",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Le",
+        "nombreOccurence": 5
+      },
+      {
+        "mot": "Ann",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "sorti",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "américain",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Mason",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "film",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "Arnaud",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "src",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "wikipedia",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "wiki",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "CentralAutoLogin",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "type",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "alt",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "width",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "style",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "none",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "absolute",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "document",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "https",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "org",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "php",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "oldid",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "HomonymieHomonymie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "La",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "modification",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "été",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Droit",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "textes",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "disponibles",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "licence",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Commons",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "partage",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mêmes",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "autres",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "appliquer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "conditions",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "que",
+        "nombreOccurence": 3
+      },
+      {
+        "mot": "réutilisation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "voyez",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "citer",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "mentionner",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "marque",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wikimedia",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "organisation",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "régie",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "c",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "États",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Politique",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "À",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Wikipédia",
+        "nombreOccurence": 2
+      },
+      {
+        "mot": "Version",
+        "nombreOccurence": 1
+      },
+      {
+        "mot": "Développeurs",
+        "nombreOccurence": 1
       },
       {
         "mot": "Déclaration",

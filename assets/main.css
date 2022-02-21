@@ -1,5 +1,5 @@
 body{
-    font-family: cursive;
+    font-family: sans-serif;
     background-color: whitesmoke;
 }
 
@@ -35,12 +35,9 @@ hr{
     height: 30px;
 }
 
-
-
 .lien :hover{
     cursor: pointer;
 }
-
 
 section{
     display: flex;
